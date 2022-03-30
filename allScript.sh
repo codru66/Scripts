@@ -39,3 +39,6 @@ mkdir /home/freddie/git
 cd /home/freddie/git
 git clone https://github.com/ilanius/smalltown.git
 git clone https://github.com/ilanius/ngram.git
+
+#CHMOD
+#chmod u+x
